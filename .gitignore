@@ -12,5 +12,9 @@ wheels/
 # Environment variables
 .env
 
-#
+# Data source documents
 data/*.txt
+
+# Vector stores
+output/faiss/
+output/chroma/
